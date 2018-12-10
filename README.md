@@ -1,6 +1,6 @@
 # cmsms_vul
 ## XSS-1
-When modifying the email, if the format is wrong, the response contains the previously entered email value. At this time, the XSS vulnerability will be started. 
+When modifying the email, if the format is wrong, the response contains the previously entered email value. At this time, the XSS vulnerability will be started.   
 ![change password](1.png "") 
 ![change password](2.png "") 
 
